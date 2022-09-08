@@ -8,5 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is Jessica Reemeyer's personal website
-
+This website is currently under construction! 
